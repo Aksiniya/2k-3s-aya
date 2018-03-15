@@ -1,0 +1,5 @@
+/Users/macbook/workspace/homework/hw03(ex)/_build/CMakeFiles/rebuild_cache.dir
+/Users/macbook/workspace/homework/hw03(ex)/_build/CMakeFiles/edit_cache.dir
+/Users/macbook/workspace/homework/hw03(ex)/_build/CMakeFiles/test.dir
+/Users/macbook/workspace/homework/hw03(ex)/_build/CMakeFiles/check.dir
+/Users/macbook/workspace/homework/hw03(ex)/_build/CMakeFiles/explorer.dir

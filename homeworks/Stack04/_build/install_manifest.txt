@@ -1,0 +1,3 @@
+/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/_install/include/.DS_Store
+/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/_install/include/stack.hpp
+/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/_install/cmake/stack-config.cmake

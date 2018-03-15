@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/vk/client.hpp
+string
+-
+curl/curl.h
+-
+iostream
+-
+stdio.h
+-
+
+/Users/macbook/workspace/homework/01(network)/sources/client.cpp
+vk/client.hpp
+/Users/macbook/workspace/homework/01(network)/sources/vk/client.hpp
+curl/curl.h
+-
+string
+-
+iostream
+-
+stdio.h
+-
+

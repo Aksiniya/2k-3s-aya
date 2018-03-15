@@ -1,0 +1,8 @@
+/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/_build/CMakeFiles/install/strip.dir
+/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/_build/CMakeFiles/install.dir
+/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/_build/CMakeFiles/check.dir
+/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/_build/CMakeFiles/rebuild_cache.dir
+/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/_build/CMakeFiles/edit_cache.dir
+/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/_build/CMakeFiles/install/local.dir
+/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/_build/CMakeFiles/test.dir
+/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/_build/CMakeFiles/list_install_components.dir

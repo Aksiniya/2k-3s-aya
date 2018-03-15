@@ -1,0 +1,68 @@
+Start testing: Oct 16 10:49 MSK
+----------------------------------------------------------
+1/1 Testing: check
+1/1 Test: check
+Command: "/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/_build/check" "-s" "-r" "compact" "--use-colour" "yes"
+Directory: /Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/_build
+"check" start time: Oct 16 10:49 MSK
+Output:
+----------------------------------------------------------
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/inittest.cpp:9:[0m[1;32m PASSED[0m: si1.count() == 0[0;37m for: [0m0 == 0
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/inittest.cpp:10:[0m[1;32m PASSED[0m: si1.empty() == true[0;37m for: [0mtrue == true
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/inittest.cpp:16:[0m[1;32m PASSED[0m: si2.count() == 0[0;37m for: [0m0 == 0
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/inittest.cpp:17:[0m[1;32m PASSED[0m: si2.empty() == true[0;37m for: [0mtrue == true
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/inittest.cpp:24:[0m[1;32m PASSED[0m: si3.count() == 5[0;37m for: [0m5 == 5
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/inittest.cpp:25:[0m[1;32m PASSED[0m: si3.empty() == false[0;37m for: [0mfalse == false
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/inittest.cpp:32:[0m[1;32m PASSED[0m: si5.count() == 5[0;37m for: [0m5 == 5
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/inittest.cpp:33:[0m[1;32m PASSED[0m: si5.empty() == false[0;37m for: [0mfalse == false
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/inittest.cpp:34:[0m[1;32m PASSED[0m: si5.top() == 5[0;37m for: [0m5 == 5
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/inittest.cpp:41:[0m[1;32m PASSED[0m: si6.empty() == true[0;37m for: [0mtrue == true
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/inittest.cpp:42:[0m[1;32m PASSED[0m: si6.count() == 0[0;37m for: [0m0 == 0
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/inittest.cpp:43:[0m[1;32m PASSED[0m: si7.count() == 5[0;37m for: [0m5 == 5
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/inittest.cpp:44:[0m[1;32m PASSED[0m: si7.empty() == false[0;37m for: [0mfalse == false
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/inittest.cpp:45:[0m[1;32m PASSED[0m: si7.top() == 5[0;37m for: [0m5 == 5
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/inittest.cpp:54:[0m[1;32m PASSED[0m: x == 7[0;37m for: [0m7 == 7
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/inittest.cpp:55:[0m[1;32m PASSED[0m: y == 6[0;37m for: [0m6 == 6
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/inittest.cpp:56:[0m[1;32m PASSED[0m: si8.count() == 6[0;37m for: [0m6 == 6
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test1.cpp:11:[0m[1;32m PASSED[0m: si.count() == 0[0;37m for: [0m0 == 0
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test1.cpp:16:[0m[1;32m PASSED[0m: si.count() == 1[0;37m for: [0m1 == 1
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test1.cpp:11:[0m[1;32m PASSED[0m: si.count() == 0[0;37m for: [0m0 == 0
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test1.cpp:23:[0m[1;32m PASSED[0m: si.count() == 2[0;37m for: [0m2 == 2
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test1.cpp:11:[0m[1;32m PASSED[0m: si.count() == 0[0;37m for: [0m0 == 0
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test1.cpp:31:[0m[1;32m PASSED[0m: si.count() == 3[0;37m for: [0m3 == 3
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test2.cpp:11:[0m[1;32m PASSED[0m: sc.count() == 0[0;37m for: [0m0 == 0
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test2.cpp:12:[0m[1;32m PASSED[0m: sc.empty() == true[0;37m for: [0mtrue == true
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test2.cpp:18:[0m[1;32m PASSED[0m: sc.count() == 2[0;37m for: [0m2 == 2
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test2.cpp:19:[0m[1;32m PASSED[0m: sc.empty() == false[0;37m for: [0mfalse == false
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test3.cpp:7:[0m[1;32m PASSED[0m: sc.empty() == true[0;37m for: [0mtrue == true
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test3.cpp:12:[0m[1;32m PASSED[0m: sc.count() == 1[0;37m for: [0m1 == 1
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test3.cpp:13:[0m[1;32m PASSED[0m: sc.empty() == false[0;37m for: [0mfalse == false
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test3.cpp:7:[0m[1;32m PASSED[0m: sc.empty() == true[0;37m for: [0mtrue == true
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test3.cpp:21:[0m[1;32m PASSED[0m: x == 'b'[0;37m for: [0m'b' == 'b'
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test3.cpp:22:[0m[1;32m PASSED[0m: sc.count() == 2[0;37m for: [0m2 == 2
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test3.cpp:23:[0m[1;32m PASSED[0m: sc.empty() == false[0;37m for: [0mfalse == false
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test3.cpp:7:[0m[1;32m PASSED[0m: sc.empty() == true[0;37m for: [0mtrue == true
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test3.cpp:32:[0m[1;32m PASSED[0m: x == 'a'[0;37m for: [0m'a' == 'a'
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test3.cpp:33:[0m[1;32m PASSED[0m: sc.count() == 1[0;37m for: [0m1 == 1
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test3.cpp:34:[0m[1;32m PASSED[0m: sc.empty() == false[0;37m for: [0mfalse == false
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test4.cpp:11:[0m[1;32m PASSED[0m: x == 5[0;37m for: [0m5 == 5
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test4.cpp:12:[0m[1;32m PASSED[0m: si1.count() == 5[0;37m for: [0m5 == 5
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test4.cpp:13:[0m[1;32m PASSED[0m: si1.empty() == false[0;37m for: [0mfalse == false
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test4.cpp:14:[0m[1;32m PASSED[0m: si2.count() == 5[0;37m for: [0m5 == 5
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test4.cpp:15:[0m[1;32m PASSED[0m: si2.empty() == false[0;37m for: [0mfalse == false
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test4.cpp:24:[0m[1;32m PASSED[0m: x == 5[0;37m for: [0m5 == 5
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test4.cpp:25:[0m[1;32m PASSED[0m: si3.count() == 0[0;37m for: [0m0 == 0
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test4.cpp:26:[0m[1;32m PASSED[0m: si3.empty() == true[0;37m for: [0mtrue == true
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test4.cpp:27:[0m[1;32m PASSED[0m: si4.count() == 5[0;37m for: [0m5 == 5
+[0;37m/Users/macbook/Desktop/Учебная/Алгоритмические языки/С++/3 семестр/hw04(stack)/tests/test4.cpp:28:[0m[1;32m PASSED[0m: si4.empty() == false[0;37m for: [0mfalse == false
+[1;32mPassed all 5 test cases with 48 assertions.[0m
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"check" end time: Oct 16 10:49 MSK
+"check" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 16 10:49 MSK

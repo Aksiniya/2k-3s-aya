@@ -1,0 +1,2 @@
+/Users/macbook/workspace/homework/01(network)/_builds/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/rebuild_cache.dir
+/Users/macbook/workspace/homework/01(network)/_builds/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/edit_cache.dir

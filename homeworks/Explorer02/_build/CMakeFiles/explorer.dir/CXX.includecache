@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/macbook/workspace/homework/hw02(ex)/sources/explorer.cpp
+iostream
+-
+boost/filesystem.hpp
+-
+stdlib.h
+-
+fstream
+-
+future
+-
+string
+-
+

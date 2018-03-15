@@ -1,0 +1,5 @@
+Explorer.
+This code show info about file - size, permissions, absolure way to directory.
+Received parameters:
+1. From global variable EXPLORER_LOG_PATH. Where information will be displayed
+2. From command line param. Which file will be displayed?

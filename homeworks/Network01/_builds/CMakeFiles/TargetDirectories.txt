@@ -1,0 +1,4 @@
+/Users/macbook/workspace/homework/01(network)/_builds/CMakeFiles/rebuild_cache.dir
+/Users/macbook/workspace/homework/01(network)/_builds/CMakeFiles/edit_cache.dir
+/Users/macbook/workspace/homework/01(network)/_builds/CMakeFiles/example.dir
+/Users/macbook/workspace/homework/01(network)/_builds/CMakeFiles/client.dir
